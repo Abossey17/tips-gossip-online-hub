@@ -1,1 +1,1 @@
-# tips-gossip-online-hub
+# this is the repo for my tips online hub
